@@ -1,26 +1,26 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "name": "Wendy Huang",
+    "label": "Shidler Undergraduate Student",
+    "picture": "https://github.com/wendyh2.png",
+    "email": "wendyh2@hawaii.edu",
+    "phone": "808-206-3329",
+    "website": "https://wendyh2.github.io",
+    "summary": "I am currently an undergraduate student at the University of Hawaii at Manoa's Shidler College of Business studying for a B.B.A. in Marketing, Management Information Systems, and possibly Management. I expect to graduate in Spring, 2025."
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
+      { "network": "github", "username": "wendyh2", "url": "http://github.com/wendyh2" },
+      { "network": "linkedin", "username": "huang-wendy", "url": "http://linkedin.com/in/huang-wendy/" },
       { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
       { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Business Law" },
+    { "name": "Doing Nails" },
+    { "name": "Graphic Design" },
+    { "name": "AWS" },
+    { "name": "Marketing Analytics" }
   ],
   "skills": [
     {
@@ -35,9 +35,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Marketing, Management Information Systems, and possibly Management (expected Spring, 2025)",
+      "studyType": "B.B.A.",
+      "startDate": "2021-08-20",
       "endDate": "Present",
       "courses": [
       ]
