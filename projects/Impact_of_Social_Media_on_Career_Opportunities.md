@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/itm352projectpictureupload.jpg
 title: "Impact of Social Media on Career Opportunities"
 date: 2022-10-30
 published: true
