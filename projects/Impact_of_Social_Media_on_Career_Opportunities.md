@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/itm352projectpictureupload.jpg
 title: "Impact of Social Media on Career Opportunities"
-date: 2022-10-30
+date: 2022
 published: true
 labels:
   - Social Media
