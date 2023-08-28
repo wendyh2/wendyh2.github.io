@@ -15,8 +15,9 @@
   },
   "interests": [
     { "name": "Business Law" },
-    { "name": "Doing Nails" },
     { "name": "Graphic Design" },
+    { "name": "Nails" },
+    { "name": "Fashion" },
     { "name": "AWS" },
     { "name": "Marketing Analytics" }
   ],
@@ -94,6 +95,12 @@
     }
   ],
   "awards": [
+      {
+      "title": "Dean's List",
+      "date": "2021-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "The Dean’s List recognizes students with a superior academic record, i.e., a minimum current grade point average of 3.5 for 12 or more credits of academic coursework."
+    },
       {
       "title": "B+ Scholarship",
       "date": "2021-Present",
