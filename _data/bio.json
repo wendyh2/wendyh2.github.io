@@ -6,7 +6,7 @@
     "email": "wendyh2@hawaii.edu",
     "phone": "808-206-3329",
     "website": "https://wendyh2.github.io",
-    "summary": "Hello, my name is Wendy! I am currently an undergraduate student at the University of Hawaii at Manoa's Shidler College of Business studying for a B.B.A. in Marketing, Management Information Systems, and possibly Management. I expect to graduate in Spring, 2025. After graduation, I hope to pursue a career that intersects with business and technology.",
+    "summary": "Hello, my name is Wendy! I am currently an undergraduate student at the University of Hawaii at Manoa's Shidler College of Business studying for a B.B.A. in Management Information Systems, Marketing, and Management. I expect to graduate in Spring, 2025. After graduation, I hope to pursue a career that intersects with business and technology.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "wendyh2", "url": "http://github.com/wendyh2" },
@@ -35,7 +35,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Marketing, Management Information Systems, and possibly Management (expected Spring, 2025)",
+      "area": "Marketing, Management Information Systems, and Management (expected Spring, 2025)",
       "studyType": "B.B.A.",
       "startDate": "2021-08-20",
       "endDate": "Present",
@@ -69,7 +69,7 @@
       ]
     }
   ],
-  "volunteer": [
+  "Extracurriculars": [
     {
       "organization": "Samaritan Counseling Center Hawaii",
       "website": "https://www.samaritancounselingcenterhawaii.org/",
@@ -90,8 +90,30 @@
       "endDate": "2020",
       "summary": "Participated in the CTL program",
       "highlights": [
-        "Led student team for After School All Stars at Ke’elikolani Middle School",
-        "Participated in biweekly meetings with other students in the program"
+        "Led and managed a student team to support the After School All Stars program at Ke'elikolani Middle School, focusing on providing valuable extracurricular activities and mentorship to local students."
+      ]
+    },
+        {
+      "organization": "Business Executive Society of Tomorrow (B.E.S.T)",
+      "website": "https://www.bestuhm.org/home",
+      "position": "General Member",
+      "startDate": "2023-09-17",
+      "endDate": "Present",
+      "summary": "Started as a new recruit in Fall, 2023",
+      "highlights": [
+        "Actively participated in the Fall 2023 cohort by attending general meetings, engaging in workshops, and joining informative tours, enhancing my understanding of future business trends and leadership skills."
+      ]
+    },
+       {
+      "organization": "Al",
+      "website": "https://www.samaritancounselingcenterhawaii.org/",
+      "position": "Volunteer",
+      "startDate": "2022-11-22",
+      "endDate": "Present",
+      "summary": "Creating social media posts",
+      "highlights": [
+        "Develop social media posts that reflect the organization's ideals",
+        "Creating posts monthly for the organization"
       ]
     }
   ],
