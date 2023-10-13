@@ -72,7 +72,7 @@
       "website": "https://www.footlocker.com/",
       "startDate": "2019-07-28",
       "endDate": "Present",
-      "summary": "Demonstrate excellent customer service including greeting customers, making product recommendations, answering client questions",
+      "summary": "Committed to fostering an exceptional shopping atmosphere and driving measurable results, I take pride in my role as a Retail Associate and look forward to continuing to exceed expectations in this dynamic retail environment.",
       "highlights": [
         "Exemplify exceptional customer service by warmly welcoming and assisting patrons, offering insightful product recommendations, and addressing client inquiries, ensuring a memorable shopping experience",
         "Execute precise financial transactions with a sharp eye for detail, swiftly resolving customer inquiries to ensure their financial needs are met with ease and satisfaction",
@@ -85,7 +85,7 @@
       ]
     }
   ],
-"extracurriculars": [
+ "extracurriculars": [
     {
       "organization": "Business Executive Society of Tomorrow (B.E.S.T)",
       "position": "General Member",
@@ -97,10 +97,21 @@
         "Actively participated in the Fall 2023 cohort by attending general meetings, engaging in workshops, and joining informative tours, enhancing my understanding of future business trends and leadership skills"
       ]
     },
-    {
+   {
+      "organization": "Information Technology Management Association (ITMA)",
+      "position": "General Member",
+      "website": "https://www.instagram.com/itmahawaii/",
+      "startDate": "2023-09-17",
+      "endDate": "Present",
+      "summary": "Our mission is to strengthen the social and professional network between members of the Information Technology Management Association, alumni, and professionals by focusing on the development of quality relationships. ITMA is motivated and dedicated to provide its members with social and professional relationships, provide access to technical resources, and be an example of a growing technical environment to foster career development",
+      "highlights": [
+        "Became a member in Fall 2023 and actively participated by attending general meetings and engaging with industry professionals, gaining insights and connections within the field of IT and technology"
+      ]
+    },
+   {
       "organization": "Center for Tomorrow’s Leaders",
-      "website": "https://www.ctlhawaii.org/",
       "position": "Student Ambassador",
+      "website": "https://www.ctlhawaii.org/",
       "startDate": "2019",
       "endDate": "2020",
       "summary": "The Center for Tomorrow’s Leaders is a local non-profit organization with a mission to engage, equip, and empower young leaders for Hawaiʻi. Through signature high school and post-secondary programs, CTL is creating an atmosphere for student leaders from every community to be discovered and trained. Our 10-year leadership pipeline for Hawai'i from sophomore year of high school to age 25 provides a leader feeder for Hawai'i’s businesses, government, and all sectors of young people who are from, for, and in Hawai'i",
@@ -109,24 +120,16 @@
       ]
     },
     {
-      "organization": "Information Technology Management Association (ITMA)",
-      "website": "",
-      "position": "General Member",
-      "startDate": "2023-09-17",
-      "endDate": "Present",
-      "summary": "Our mission is to strengthen the social and professional network between members of the Information Technology Management Association, alumni, and professionals by focusing on the development of quality relationships. ITMA is motivated and dedicated to provide its members with social and professional relationships, provide access to technical resources, and be an example of a growing technical environment to foster career development",
-      "highlights": [
-        "Became a member in Fall 2023 and actively participated by attending general meetings and engaging with industry professionals, gaining insights and connections within the field of IT and technology"
-      ]
-    },
-    {
-      "organization": "'A'ali'i Mentoring",
-      "website": "https://www.aaliimentoring.org/",
+      "organization": "A'ali'i Mentoring",
       "position": "Mentee",
+      "website": "https://www.aaliimentoring.org/",
       "startDate": "2023-08-26",
       "endDate": "Present",
-      "summary": "A`ALI`I Mentoring is a 501(c)(3) nonprofit organization in Hawaii that helps young adults from underserved communities navigate and persevere in higher education. Many young people from communities underrepresented in higher education face the typical challenges related to the transition to college and also daunting difficulties including academic, financial, familial, and personal hardships. They may not be aware of or have access to financial, educational, and career resources and opportunities. As a result, many young people do not achieve their higher education"
-     }
+      "summary": "A`ALI`I Mentoring is a 501(c)(3) nonprofit organization in Hawaii that helps young adults from underserved communities navigate and persevere in higher education. Many young people from communities underrepresented in higher education face the typical challenges related to the transition to college and also daunting difficulties including academic, financial, familial, and personal hardships. They may not be aware of or have access to financial, educational, and career resources and opportunities. As a result, many young people do not achieve their higher education",
+      "highlights": [
+        "Participated in a 12-month professional development program, receiving valuable 1-1 and group mentorship, which enhanced personal and career growth through guidance and support"
+      ]
+    }
   ],
   "awards": [
       {
