@@ -85,49 +85,30 @@
       ]
     }
   ],
- "extracurriculars": [
+   "extracurriculars": [
     {
-      "organization": "Business Executive Society of Tomorrow (B.E.S.T)",
-      "position": "General Member",
-      "website": "https://www.bestuhm.org/home",
-      "startDate": "2023-09-17",
+      "organization": "Center for Renewable Energy and Island Sustainability",
+      "website": "http://manoa.hawaii.edu/reis",
+      "position": "Software Developer",
+      "startDate": "2016-01-01",
       "endDate": "Present",
-      "summary": "Founded in 1998, the Business Executive Society of Tomorrow (BEST) is a general business club at the University of Hawaii at Manoa’s Shidler College of Business. With a member cap of 60, BEST has a proud history of maintaining and perpetuating excellence in its members. Through a combination of tours, workshops, networking events, alumni events, community services, and socials, the club strives to mold its members into well-rounded individuals",
+      "summary": "Lead developer for weather sensing project",
       "highlights": [
-        "Actively participated in the Fall 2023 cohort by attending general meetings, engaging in workshops, and joining informative tours, enhancing my understanding of future business trends and leadership skills",
-      ]
-    },
-   {
-      "organization": "Information Technology Management Association (ITMA)",
-      "position": "General Member",
-      "website": "https://www.instagram.com/itmahawaii/",
-      "startDate": "2023-09-17",
-      "endDate": "Present",
-      "summary": "Our mission is to strengthen the social and professional network between members of the Information Technology Management Association, alumni, and professionals by focusing on the development of quality relationships. ITMA is motivated and dedicated to provide its members with social and professional relationships, provide access to technical resources, and be an example of a growing technical environment to foster career development",
-      "highlights": [
-        "Became a member in Fall 2023 and actively participated by attending general meetings and engaging with industry professionals, gaining insights and connections within the field of IT and technology"
-      ]
-    },
-   {
-      "organization": "Center for Tomorrow’s Leaders",
-      "position": "Student Ambassador",
-      "website": "https://www.ctlhawaii.org/",
-      "startDate": "2019",
-      "endDate": "2020",
-      "summary": "The Center for Tomorrow’s Leaders is a local non-profit organization with a mission to engage, equip, and empower young leaders for Hawaiʻi. Through signature high school and post-secondary programs, CTL is creating an atmosphere for student leaders from every community to be discovered and trained. Our 10-year leadership pipeline for Hawai'i from sophomore year of high school to age 25 provides a leader feeder for Hawai'i’s businesses, government, and all sectors of young people who are from, for, and in Hawai'i",
-      "highlights": [
-        "Led and managed a student team to support the After School All Stars program at Ke'elikolani Middle School, focusing on providing valuable extracurricular activities and mentorship to local students"
+        "Design firmware for distributed weather sensor network",
+        "Maintain custom data collection and storage infrastructure"
       ]
     },
     {
-      "organization": "A'ali'i Mentoring",
-      "position": "Mentee",
-      "website": "https://www.aaliimentoring.org/",
-      "startDate": "2023-08-26",
-      "endDate": "Present",
-      "summary": "A`ALI`I Mentoring is a 501(c)(3) nonprofit organization in Hawaii that helps young adults from underserved communities navigate and persevere in higher education. Many young people from communities underrepresented in higher education face the typical challenges related to the transition to college and also daunting difficulties including academic, financial, familial, and personal hardships. They may not be aware of or have access to financial, educational, and career resources and opportunities. As a result, many young people do not achieve their higher education",
+      "organization": "",
+      "website": "",
+      "position": "Professional organization involvement",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Participated in a 12-month professional development program, receiving valuable 1-1 and group mentorship, which enhanced personal and career growth through guidance and support"
+        "Chair, ACM Manoa, 2016-Present",
+        "Member, IEEE Student Branch, 2014-Present",
+        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
   ],
