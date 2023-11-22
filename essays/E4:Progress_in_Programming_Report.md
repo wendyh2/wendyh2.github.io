@@ -12,10 +12,31 @@ labels:
   - E4
 ---
 
-## SmartPhoneProducts1 with variables
+## My programming skills have greatly improved in the following ways:
 
-While working on SmartPhoneProducts1 with variables, I encountered several technical challenges on my laptop that were unrelated to the code. For instance, I had trouble renaming a file, and it inexplicably wouldn't allow me to do so. I spent a considerable amount of extra time troubleshooting this issue, and oddly, it only allowed me to rename the file after I failed to record my screencast. Additionally, I faced difficulties with the "find and replace" function, as it was not functioning as expected. I am not sure why I kept having this issue, but I would appreciate any insights you might have Michelle, which you can put in your feedback/comments. It took me about three attempts to achieve Rx, which felt like quite a lengthy process. I also inadvertently overlooked updating some numbers, causing the code to malfunction on occasion. To address this, I made sure to meticulously review all the numbers to prevent such errors in my final attempt. I approached the task with a balance of thoroughness and speed, but my ultimate goal was to get Rx. In the future, I intend to prioritize getting everything to work correctly from the outset.  
+My proficiency in programming has seen significant enhancements, particularly in my grasp of if statements and CSS. I've developed a deeper understanding of coding concepts, enabling me to troubleshoot effectively when faced with challenges. Assignments, such as Assignment 1, have sharpened my systematic problem-solving skills, transforming my approach to complex tasks. Initially, I grappled with intricate problems, but consistent practice and utilizing resources like ChatGPT have empowered me to break down tasks methodically and craft efficient solutions.
 
-## Invoice 1
+## I need to work on the following to improve my programming skills:
 
-Working on Invoice 1 proved to be quite challenging, as it took me four attempts to complete successfully. The difficulties primarily arose from failing to update certain numbers in the code, which rendered the entire project non-functional. During one recording session, I misplaced some elements, resulting in my information, such as prices, not updating as intended. There were also instances when I overlooked number changes, causing functionality issues. The overall process was quite time-consuming, and I admit that I didn't persist in trying to resolve the issues as much as I should have, partially due to time constraints. I found myself rushing towards the end of the task. I resorted to searching for solutions to specific problems I encountered, which helped me identify and rectify certain issues. In hindsight, I know that I should allocate more time for WODs in the future, avoiding the last-minute rush. I also plan to double-check all the code for accuracy and functionality. Maintaining the live server feature and rigorously testing each piece of code as it's inputted will be crucial to prevent time-consuming backtracking in case of errors.
+While I've made strides in certain aspects, I recognize the need to deepen my understanding of specific functions, especially those I struggle with executing. Reading the manual and familiarizing myself with basic JavaScript functions is an area for improvement. Strengthening my logical thinking is also crucial, as I sometimes find myself getting confused when contemplating solutions, emphasizing the importance of a more forward-minded approach.
+
+## I have learned a lot from doing WODs and can do them without copying the screencast:
+
+WODs have proven to be a pivotal learning tool, challenging me to execute tasks independently while articulating my understanding. The absence of a screencast during later WODs pushed me to troubleshoot and think critically, building my confidence through perseverance and collaboration with classmates.
+
+## The labs have helped me learn, and I can complete them with confidence:
+
+While I find some labs challenging, I acknowledge their role in my learning journey. Careful review of screencasts and lecture readings is essential for independent completion. Patience remains crucial as I navigate certain challenging aspects of the labs, recognizing that seeking assistance is a valuable part of the learning process.
+
+## I learned a lot from my experience doing Assignment 1 and feel ready to work on Assignment 2:
+
+Assignment 1 was a valuable learning experience, providing insights that will undoubtedly aid me in Assignment 2. Although a certain level of nervousness persists, I am committed to seeking guidance from Dan when needed. Recognizing that his assistance is readily available, I am determined not to let intimidation hinder my progress.
+
+## I think the class can be improved to help my learning in the following ways:
+
+I suggest incorporating more labs or WODs that directly relate to crucial assignments, particularly Assignment 2. A slightly faster pace during class activities, especially labs, would help maintain engagement. While acknowledging the importance of thorough explanations from Professor Port, a balance that minimizes downtime could enhance overall effectiveness. Additionally, extending the time allocated for assignments, like Assignment 2, would allow for more comprehensive work and attention to detail.
+
+## What helps me the most in class are (WODs, Labs, class website, screencasts, readings, quizzes, one on one help, working with classmates, etc.):
+
+The WODs have been instrumental in my understanding, providing a conceptual framework that repetition solidifies. One-on-one assistance from Professor Port offers valuable insights, delving deeper into concepts not covered in class. Collaborative problem-solving with classmates is beneficial, allowing shared troubleshooting experiences. The smaller class size fosters strong relationships with classmates, creating a supportive learning environment.
+
