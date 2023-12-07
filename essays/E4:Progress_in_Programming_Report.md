@@ -11,7 +11,7 @@ labels:
   - My Progress
   - E4
 ---
-<img width="200px" class="rounded float-start pe-4" src="../img/nailshopss.png">
+<img width="150px" class="rounded float-start pe-4" src="../img/nailshopss.png">
 
 ## My programming skills have greatly improved in the following ways:
 
