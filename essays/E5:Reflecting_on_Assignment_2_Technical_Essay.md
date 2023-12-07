@@ -1,41 +1,50 @@
 ---
 layout: essay
 type: essay
-title: "E4: Progress in Programming Report"
+title: "E5: Reflecting on Assignment 2 Technical Essay"
 # All dates must be YYYY-MM-DD format!
-date: 2023-11-22
+date: 2023-12-06
 published: true
 labels:
   - Essay
-  - Assignment1
-  - My Progress
-  - E4
+  - Assignment2
+  - Reflection on Assignment2
+  - E5
 ---
 
-## My programming skills have greatly improved in the following ways:
+## Provide a brief introduction to the assignment along with a link to this page for further details:
 
-My proficiency in programming has seen significant enhancements, particularly in my grasp of if statements and CSS. I've developed a deeper understanding of coding concepts, enabling me to troubleshoot effectively when faced with challenges. Assignments, such as Assignment 1, have sharpened my systematic problem-solving skills, transforming my approach to complex tasks. Initially, I grappled with intricate problems, but consistent practice and utilizing resources like ChatGPT have empowered me to break down tasks methodically and craft efficient solutions.
+In Assignment 2, I successfully implemented a functional login and registration page, storing user data in a JSON file. For more details, please refer to the [link] (https://dport96.github.io/ITM352/morea/150.Assignment2/experience-Assignment2_retrospective.html) to the assignment page.
 
-## I need to work on the following to improve my programming skills:
+## 1. What did you learn from this assignment?
 
-While I've made strides in certain aspects, I recognize the need to deepen my understanding of specific functions, especially those I struggle with executing. Reading the manual and familiarizing myself with basic JavaScript functions is an area for improvement. Strengthening my logical thinking is also crucial, as I sometimes find myself getting confused when contemplating solutions, emphasizing the importance of a more forward-minded approach.
+This assignment enhanced my problem-solving skills and deepened my understanding of global variables. I gained valuable insights into creating effective login and registration systems, including the implementation of a functional logout button.
 
-## I have learned a lot from doing WODs and can do them without copying the screencast:
+## 2. I have learned a lot from doing WODs and can do them without copying the screencast:
 
 WODs have proven to be a pivotal learning tool, challenging me to execute tasks independently while articulating my understanding. The absence of a screencast during later WODs pushed me to troubleshoot and think critically, building my confidence through perseverance and collaboration with classmates.
 
-## The labs have helped me learn, and I can complete them with confidence:
+## 3. Did you work with a partner? Assign an estimated percentage on the amount each team member contributed to the assignment (including yourself).
 
-While I find some labs challenging, I acknowledge their role in my learning journey. Careful review of screencasts and lecture readings is essential for independent completion. Patience remains crucial as I navigate certain challenging aspects of the labs, recognizing that seeking assistance is a valuable part of the learning process.
+I tackled this assignment independently, without a partner. However, I did receive assistance from Dan when needed.
 
-## I learned a lot from my experience doing Assignment 1 and feel ready to work on Assignment 2:
+## 4. How did you get help when you needed it? What did you need help with?
 
-Assignment 1 was a valuable learning experience, providing insights that will undoubtedly aid me in Assignment 2. Although a certain level of nervousness persists, I am committed to seeking guidance from Dan when needed. Recognizing that his assistance is readily available, I am determined not to let intimidation hinder my progress.
+When faced with challenges, I sought assistance from Dan during several meetings and utilized ChatGPT when needed. Dan provided crucial support in creating a functional logout button and implementing a redirect page for logout confirmation.
 
-## I think the class can be improved to help my learning in the following ways:
+## 5. How was developing this assignment different than assignment #1?
 
-I suggest incorporating more labs or WODs that directly relate to crucial assignments, particularly Assignment 2. A slightly faster pace during class activities, especially labs, would help maintain engagement. While acknowledging the importance of thorough explanations from Professor Port, a balance that minimizes downtime could enhance overall effectiveness. Additionally, extending the time allocated for assignments, like Assignment 2, would allow for more comprehensive work and attention to detail.
+Assignment 2 posed greater complexity, particularly concerning the login and registration pages, including the incorporation of IRs. Handling data within the user JSON file was a significant aspect involving code retrieving existing data and updating it with new registration information. Although more extensive, this assignment improved my overall comprehension.
 
-## What helps me the most in class are (WODs, Labs, class website, screencasts, readings, quizzes, one on one help, working with classmates, etc.):
+## 6. Estimate the % of time you spent (a) thinking about how to do something, (b) writing code (but do not include testing, (c) testing and debugging:
 
-The WODs have been instrumental in my understanding, providing a conceptual framework that repetition solidifies. One-on-one assistance from Professor Port offers valuable insights, delving deeper into concepts not covered in class. Collaborative problem-solving with classmates is beneficial, allowing shared troubleshooting experiences. The smaller class size fosters strong relationships with classmates, creating a supportive learning environment.
+I spent approximately 25% of my time pondering solutions, 45% writing code, and 30% on testing and debugging.
+
+## 7. Describe what worked well with this project? What did not work well?
+
+Notable successes include the significant improvement in my problem-solving and debugging skills compared to the previous assignment. However, I encountered difficulties with the logout functionality, struggling to ensure proper user logout. Collaborating with Dan was pivotal in overcoming this hurdle and fixing it to start working properly.
+
+## 8. If you could go back in time and do things differently, what would you do differently?
+
+If given the chance to revisit this project, I would opt for simpler code structures. Acknowledging Dan's advice about code complexity, I would seek his input more frequently to explore alternative, more straightforward approaches.
+
