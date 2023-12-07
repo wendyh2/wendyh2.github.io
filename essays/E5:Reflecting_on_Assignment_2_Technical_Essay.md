@@ -14,7 +14,7 @@ labels:
 
 ## Provide a brief introduction to the assignment along with a link to this page for further details:
 
-In Assignment 2, I successfully implemented a functional login and registration page, storing user data in a JSON file. For more details, please refer to the [link] (https://dport96.github.io/ITM352/morea/150.Assignment2/experience-Assignment2_retrospective.html) to the assignment page.
+In Assignment 2, I successfully implemented a functional login and registration page, storing user data in a JSON file. For more details, please refer to the [link](https://dport96.github.io/ITM352/morea/150.Assignment2/experience-Assignment2_retrospective.html) to the assignment page on my GitHub repository.
 
 ## 1. What did you learn from this assignment?
 
