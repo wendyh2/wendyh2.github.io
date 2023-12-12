@@ -18,9 +18,7 @@ labels:
 
 Click HERE [link](https://dport96.github.io/ITM352/morea/150.Assignment2/experience-Assignment2_retrospective.html) for a brief overview of our prototype layout and functionality for our Assignment 3 e-commerce website.
 
-<p>Plan for Site
-Sitemap
-<img width="500px" src="../img/A3 map.png" /></p>
+<img width="500px" src="../img/A3 map.png" />
 
 ## 1. Describe your design for your site’s shopping cart. That is, will it be a separate page that the user can view and edit, or will it be integrated into the product pages? If so, describe in detail how this will work on your site. Provide several examples of using the cart.
 
