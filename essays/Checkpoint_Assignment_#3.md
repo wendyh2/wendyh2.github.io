@@ -1,4 +1,3 @@
-
 ---
 layout: essay
 type: essay
@@ -13,45 +12,38 @@ labels:
   - Group
 ---
 
-## Show what each page will look like. The pages do not have to be “functional” but the design should be clear. Here is an example PPT prototype
+## Show what each page will look like. 
 
+The pages don't need to be fully functional, but the design should be clear. Here's an example PPT prototype:
 
-Click HERE [link](https://dport96.github.io/ITM352/morea/150.Assignment2/experience-Assignment2_retrospective.html) for a brief overview of our prototype layout and functionality for our Assignment 3 e-commerce website.
+Click HERE [link](https://dport96.github.io/ITM352/morea/150.Assignment2/experience-Assignment2_retrospective.html) for an overview of our prototype layout and functionality for our Assignment 3 e-commerce website.
 
-<img width="500px" src="../img/A3 map.png" />
+![A3 Map](../img/A3 map.png)
 
-## 1. Describe your design for your site’s shopping cart. That is, will it be a separate page that the user can view and edit, or will it be integrated into the product pages? If so, describe in detail how this will work on your site. Provide several examples of using the cart.
+## 1. Describe your design for your site’s shopping cart.
 
-Our design includes a dedicated shopping cart page, where users can manage the quantities of their chosen products. This page will bear a resemblance to the invoice page, offering a preview of selected items and their quantities for final confirmation. The cart functionality hinges on session-based data storage, maintaining the user's selection details. Users have the flexibility to modify product quantities directly in the cart, either by increasing or deleting them entirely. Once satisfied with their choices, they can initiate the purchase process by clicking the "Complete Purchase" button, leading them to the Invoice page. However, access to the invoice page requires either logging in or registering an account. Unauthenticated users will be redirected to the login page to ensure secure processing.
+Our design includes a dedicated shopping cart page. Users can easily manage the quantities of their selected products here. This page is similar to the invoice page, providing a preview of items and quantities before final confirmation. The cart uses session-based data storage, keeping track of the user's choices. Users can modify product quantities in the cart, either increasing or removing them. Once ready, they can proceed to purchase by clicking the "Complete Purchase" button. This takes them to the Invoice page. However, users need to be logged in or register an account to access the invoice page. If not logged in, they're redirected to the login page.
 
-## 2. Explain specifically how you will use sessions to manage your shopping cart. In particular, what shopping cart data will be stored in the session, what data format will be used (NOT what data type, but the format like with the data format used for your registration data). Use code examples showing what data structures (such as arrays and their objects) you will use to manage the shopping cart data and how they will be used in a session.
+## 2. Explain how you will use sessions to manage your shopping cart.
 
-Our strategy involves leveraging session management to handle the data in our shopping cart, particularly focusing on the quantities of products inputted by users. Each product type will be represented as a key, with its corresponding quantities stored in an array format within the shopping cart. For example, if a user selects products across various pages, the data structure in the cart would resemble an array like this: {Gellie: [1, 2, 3], Nerissa: [4, 5, 6]}. This approach ensures an organized and accessible way to track and manage product selections.
+We're using session management for our shopping cart data, focusing on the quantities of products users input. Each product type is a key, with quantities stored as an array. For instance, if a user picks products from different pages, the cart might look like this: `{Gellie: [1, 2, 3], Nerissa: [4, 5, 6]}`. This method keeps product selections organized and accessible.
 
-## 3. Explain specifically how you will use sessions to manage your shopping cart. In particular, what shopping cart data will be stored in the session, what data format will be used (NOT what data type, but the format like with the data format used for your registration data). Use code examples showing what data structures (such as arrays and their objects) you will use to manage the shopping cart data and how they will be used in a session.
+## 3. Discuss the security measures for your application.
 
-To enhance the security of my application and safeguard against unauthorized access, I plan to implement a robust authentication system using cookies. This approach will be particularly critical during the shopping process. When a user attempts to make a purchase, the server will check for the presence of a valid cookie to confirm that the user is currently logged in. If the user's session is authenticated via the cookie, they will be smoothly directed to the invoice page to complete their transaction. Conversely, if a user does not have a valid cookie, indicating they are not logged in, they will be redirected to the login page where they can either sign in or register a new account.
+To prevent unauthorized access, we're implementing an authentication system using cookies. This is crucial during shopping. The server will verify a user's logged-in status via a valid cookie before directing them to the invoice page. If there's no cookie, indicating the user isn't logged in, they're sent to the login page to sign in or register. Aware of potential cookie vulnerabilities, we're adding security layers like secure and HttpOnly flags, and considering encryption and regular validation checks for enhanced security.
 
-I'm aware of the potential vulnerabilities associated with using cookies, such as the risk of unauthorized access or tampering. To mitigate these risks, I intend to implement enhanced security measures, like using secure and HttpOnly flags on cookies, and possibly integrating additional safeguards such as encryption and regular cookie validation checks. This multi-layered approach aims to ensure a secure and user-friendly experience, maintaining both the integrity and confidentiality of user data.
+## 4. Addressing security for unauthenticated access.
 
-## 4. How will you avoid access to your application when the user has not logged in or registered? What are the particular security concerns you must address?
+Our main security focus is preventing unregistered users from accessing personal data. We're using cookies for session management, requiring users to log in or register before making purchases. Recognizing the limitations of client-side cookies, we're also implementing a session timeout feature. This automatically logs out inactive users, further securing user data.
 
-Addressing security concerns is paramount in ensuring that users cannot access each other's data. A key strategy to achieve this is through the use of cookies, which play a crucial role in session management. Hence, our website mandates users to log in or register before finalizing their purchases, even though they can freely edit their shopping carts. The use of cookies is instrumental here; they enable us to maintain a user's login status temporarily, confined to the duration of their active session.
+## 5. How do you personalize the UI upon successful login?
 
-However, it's important to acknowledge that cookies, residing on the client side, are not completely foolproof and are susceptible to manipulation. Therefore, while using cookies to verify a user’s status is generally effective, it's not an all-encompassing solution. To bolster security further, I plan to implement a session timeout feature. This means if a user remains inactive for a predetermined period, the website will automatically terminate their session and log them out. This additional measure significantly reduces the risk of unauthorized access, ensuring that user data remains secure and private.
+Assignment 2's complexity, especially in login and registration processes, included handling data in the user JSON file. The code managed existing data and updated it with new registration info. Despite being extensive, it improved my understanding of data handling.
 
-## 5. Upon a successful login, how do you provide personalization in your UI? Explain how you did or will do this (paste code if necessary)
+## 6. How is work divided among partners?
 
-Assignment 2 posed greater complexity, particularly concerning the login and registration pages, including the incorporation of IRs. Handling data within the user JSON file was a significant aspect involving code retrieving existing data and updating it with new registration information. Although more extensive, this assignment improved my overall comprehension.
+Teamwork is key in our approach. We're tackling tasks together, one at a time, to stay in sync. This helps us understand each other's work and integrate our code efficiently. We focus collectively on a single task for better outcomes. Keeping each other informed about individual discoveries ensures seamless collaboration and progress.
 
-## 6. If you are working with partners, how will you split up the work in your team so that you are working in parallel as effectively as possible? That is, who is doing what and when?
+## 7. How is Assignment 3 different from Assignment 2?
 
-Absolutely, teaming up with partners is a big part of what we're doing. We're all about working together in sync, tackling one thing at a time. This way, we really get what each other is thinking and doing. It's all about making things smoother and quicker, especially when it comes to fitting our code pieces together.
-
-We're putting all our brains on one task instead of spreading thin over many. That way, we get stuff done better and faster. Plus, we're big on keeping in touch. If any of us figures out something cool or important on our own, we'll make sure to fill in the others right away. This keeps us all in the loop and makes it easy to pick up where someone else left off, keeping our teamwork tight and on point.
-
-## 7. How are you approaching Assignment 3 differently than Assignment 2?
-
-Assignment 3 presents a unique set of challenges, potentially even more complex than those of Assignment 2. I'm currently evaluating whether I need to start anew. A key aspect that sets Assignment 3 apart is the emphasis on user experience in my coding process. It's crucial for me to ensure that users can easily navigate through all the web pages while maintaining the security of their data.
-
-This task involves implementing numerous validations and making significant user interface adjustments. Additionally, I need to be mindful of the user's journey throughout the website, tracking their movements across different pages. That's why having a detailed outline is invaluable – it helps me to visualize and plan the user's navigation path on my website, aiming for a seamless and intuitive experience.
+Assignment 3 brings its own challenges, perhaps more complex than Assignment 2. I'm contemplating starting from scratch. It emphasizes user experience in coding, requiring easy navigation and secure data handling. This involves significant UI changes and validations, and tracking the user's journey across the website. A detailed outline is crucial for planning the user navigation, ensuring a smooth and intuitive experience.
