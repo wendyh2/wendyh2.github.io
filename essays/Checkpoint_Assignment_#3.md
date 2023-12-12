@@ -14,7 +14,7 @@ labels:
 
 ## Show what each page will look like. The pages don't need to be fully functional, but the design should be clear.
 
-Click HERE [link](https://dport96.github.io/ITM352/morea/150.Assignment2/experience-Assignment2_retrospective.html) for an overview of our prototype layout and functionality for our Assignment 3 e-commerce website.
+Click HERE [link](https://youtu.be/9NNLx-wkQy0) for an overview of our prototype layout and functionality for our Assignment 3 e-commerce website.
 
 ![A3 Map](../img/A3 map.png)
 
@@ -44,4 +44,4 @@ Teamwork is key in our approach. We're tackling tasks together, one at a time, t
 
 ## 7. How is Assignment 3 different from Assignment 2?
 
-Assignment 3 brings its own challenges, perhaps more complex than Assignment 2. I'm contemplating starting from scratch. It emphasizes user experience in coding, requiring easy navigation and secure data handling. This involves significant UI changes and validations, and tracking the user's journey across the website. A detailed outline is crucial for planning the user navigation, ensuring a smooth and intuitive experience.
+Assignment 3 brings its challenges, perhaps more complex than Assignment 2. It emphasizes user experience in coding, requiring easy navigation and secure data handling. This involves significant UI changes and validations, and tracking the user's journey across the website. A detailed outline is crucial for planning the user navigation, ensuring a smooth and intuitive experience.
