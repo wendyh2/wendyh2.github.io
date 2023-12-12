@@ -14,7 +14,7 @@ labels:
 
 ## Show what each page will look like. The pages don't need to be fully functional, but the design should be clear.
 
-Click HERE [link](https://youtu.be/9NNLx-wkQy0) for an overview of our prototype layout and functionality for our Assignment 3 e-commerce website.
+Click [HERE](https://youtu.be/9NNLx-wkQy0) for an overview of our prototype layout and functionality for our Assignment 3 e-commerce website.
 
 ![A3 Map](../img/A3 map.png)
 
