@@ -12,9 +12,7 @@ labels:
   - Group
 ---
 
-## Show what each page will look like. 
-
-The pages don't need to be fully functional, but the design should be clear. Here's an example PPT prototype:
+## Show what each page will look like. The pages don't need to be fully functional, but the design should be clear.
 
 Click HERE [link](https://dport96.github.io/ITM352/morea/150.Assignment2/experience-Assignment2_retrospective.html) for an overview of our prototype layout and functionality for our Assignment 3 e-commerce website.
 
