@@ -60,6 +60,6 @@ I spent approximately 25% of my time thinking of solutions, 55% writing code, an
 
 ## 12. Assign an estimated percentage on the amount each team member contributed to the assignment (including yourself) and explain briefly your rationale for the percentage breakdown. Be sure to include an overview of what specifically you and your partners contributed (e.g. “I worked on the security and my partner 1 worked on personalization”)
 
-*Wendy (Myself) - 40%: I took charge of several critical aspects, including the development of multiple product pages, configuring the shopping cart, overseeing the entire checkout process (including email notifications), as well as handling IR3. I also provided valuable assistance with IR5 and managed tasks related to cookies and personalization.
-*Gellie - 30%: Gellie played a significant role by focusing on session management and contributing to IR5, along with a few other tasks.
-*Scott - 30%: Scott was responsible for IR1 and expertly managed the administrative backend of our project.
+* Wendy (Myself) - 40%: I took charge of several critical aspects, including the development of multiple product pages, configuring the shopping cart, overseeing the entire checkout process (including email notifications), as well as handling IR3. I also provided valuable assistance with IR5 and managed tasks related to cookies and personalization.
+* Gellie - 30%: Gellie played a significant role by focusing on session management and contributing to IR5, along with a few other tasks.
+* Scott - 30%: Scott was responsible for IR1 and expertly managed the administrative backend of our project.
