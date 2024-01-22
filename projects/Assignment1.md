@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ![WeNailed Logo](img/WeNailed_optimized.png)
+image: img/Weniled2.png
 title: "Assignment 1"
 date: 2023
 published: true
