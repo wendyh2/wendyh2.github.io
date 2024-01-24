@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/Weniled2.png
-title: "Assignment 1"
+title: "Assignment 2"
 date: 2023
 published: true
 labels:
