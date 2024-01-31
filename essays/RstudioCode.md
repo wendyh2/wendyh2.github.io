@@ -14,6 +14,8 @@ labels:
 ## Set path for Working Directory in MKT410 
 setwd("C:\\Users\\admin\\OneDrive\\Documents\\LearningR")
 
+setwd("C:\\Users\\admin\\OneDrive\\Documents\\LearningR")
+
 
 ## Browser History 2
 
