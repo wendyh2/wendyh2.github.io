@@ -45,6 +45,30 @@
   ],
   "work": [
     {
+      "company": "Office of Economic Revitalization under the City and County of Honolulu",
+      "position": "Po'okela Data Analysis Intern",
+      "website": "https://www.revitalizeoahu.org/",
+      "startDate": "2024-01-01",
+      "endDate": "Present",
+      "summary": "My internship focused on leveraging GIS expertise for data management, analysis, and visualization. Where I created spatial visualizations, conducted spatial analysis, and translated complex findings into actionable recommendations. While also collaborating effectively with teams and stayed updated on GIS trends to continuously improve workflows.",
+      "highlights": [ 
+        "Utilize GIS software and tools for accurate and reliable spatial data management",
+        "Develop spatial visualizations and reports to communicate geographical insights for projects",
+        "Conduct sophisticated spatial analysis to identify patterns and trends in geographic data",
+        "Create compelling data visualizations to present insights from census and GIS data effectively, including analyzing HART data for Bill 40 grant eligibility",
+        "Collaborate and communicate complex geospatial data across teams, seeking input from team members to ensure alignment with project objectives",
+        "Provide guidance and support on GIS matters, promoting collaboration. Collaborated on creating StoryMaps to visually display project maps",
+        "Perform rigorous data validation and quality assurance processes to ensure spatial analysis results' integrity and reliability",
+        "Translate complex spatial analysis findings into actionable recommendations, facilitating data-driven decision-making processes",
+        "Stay updated of GIS technology trends and spatial analysis methodologies to drive innovation",
+        "Enhance departmental transparency and user awareness through informative interactions",
+        "Identify and implement optimizations in GIS workflows to improve efficiency",
+        "Engage in professional development activities, including MOOC programs, to enhance GIS skills and knowledge",
+        "Employ advanced analytical techniques to interpret geographic data, extracting actionable insights"
+      ]
+    },
+    [
+    {
       "company": "UH Manoa Career Center",
       "position": "Employment Services Assistant",
       "website": "https://manoa.hawaii.edu/careercenter/",
