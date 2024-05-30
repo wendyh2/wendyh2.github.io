@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Assignment 2 | Wendy Huang | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/wendyh2.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Wendy Huang | Professional Portfolio">
+    <meta property="og:url" content="https://wendyh2.github.io/projects/Assignment2.html">
+    <meta property="og:title" content="Assignment 2 | Wendy Huang | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/wendyh2.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/skyblue.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Assignment 2 | Wendy Huang | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Wendy Huang</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Assignment 2</h1>
+ <p>In Assignment 2, we had to work off our Assignment 1 to make our e-commerce page more secure and personalized. In Assignment 2, we were tasked with making sure that we add securtiy features in our shop. Instead of just being able to buy products and get redirected to an invoice. Users are no longer able to do so, without having an account. When they try to proceed and buy the products they will be immedictaely redirected to a login-page. Users will have to create an account or log in with their account. The login shows users how many other active users are on the shop as well and a toggle feature for friendly user experience. The create an account page has users enter their name and email as well, as a secured password. If the password doesn’t meet all certain secruity measures, the system will not allow them to succesfully regster their account. It also tells the users what’s wrong with their account if there is an error. I also implemented a  I implemented all the individual requirements for extra credit, earning the highest grade in the class and standing out as a unique and innovative e-commerce concept.</p>
+
+<h2 id="individual-requirements">Individual Requirements</h2>
+<p>-<strong>IR1</strong> Store passwords encrypted. When the user registers, encrypt their password before saving the registration data to the file. When a user logs in, encrypt the password they entered and compare it with the encrypted saved password. Do not decrypt the password. You may find the crypto library useful.</p>
+
+<p>-<strong>IR2</strong> Require that passwords have at least one number and one special character.</p>
+
+<p>-<strong>IR3</strong> When the user is registering, suggest a “strong” password that is 10 random characters including numbers and special characters.</p>
+
+<p>-<strong>IR4</strong> Keep track of the number of times a user logged in and the last time they logged in. When they login display this information.</p>
+
+<p>-<strong>IR5</strong> Keep track of the number of users currently logged in to the site and display this number with the personalization information. For example, if user “dport” is logged in and there are 4 other users logged in, then each page should say somewhere “Welcome Dan, there are 4 users currently using this system.” Whenever a user logs out (for this assignment, put a logout button on the invoice page that removes the login identification and sends the user to the login page), the number should decrease accordingly. HINT: Store this information as a global array variable on the server. Whenever a user logs in or registers, add their email address (or username) to the array.</p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>

@@ -1,0 +1,188 @@
+{
+  "basics": {
+    "name": "Wendy Huang",
+    "label": "Shidler Undergraduate Student",
+    "picture": "https://github.com/wendyh2.png",
+    "email": "wendyh2@hawaii.edu",
+    "phone": "808-206-3329",
+    "website": "https://wendyh2.github.io",
+    "summary": "Hello, my name is Wendy! I am currently an undergraduate student at the University of Hawaii at Manoa's Shidler College of Business studying for a B.B.A. in Management Information Systems, Marketing, and Management. I expect to graduate in Spring, 2025. After graduation, I hope to pursue a career that intersects with business and technology.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "wendyh2", "url": "http://github.com/wendyh2" },
+      { "network": "linkedin", "username": "huang-wendy", "url": "http://linkedin.com/in/huang-wendy/" }
+    ]
+  },
+  "interests": [
+    { "name": "Business Law" },
+    { "name": "Graphic Design" },
+    { "name": "Nails" },
+    { "name": "Fashion" },
+    { "name": "AWS" },
+    { "name": "NFT's" },
+    { "name": "Marketing Analytics" }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": [ "English", "Cantonese", "Taishanese", "Limited Japanese" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Git/GitHub", "Windows" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Marketing, Management Information Systems, and Management (expected Spring, 2025)",
+      "studyType": "B.B.A.",
+      "startDate": "2021-08-20",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Office of Economic Revitalization under the City and County of Honolulu",
+      "position": "Po'okela Data Analysis Intern",
+      "website": "https://www.revitalizeoahu.org/",
+      "startDate": "2024-01-01",
+      "endDate": "Present",
+      "summary": "My internship focused on leveraging GIS expertise for data management, analysis, and visualization. Where I created spatial visualizations, conducted spatial analysis, and translated complex findings into actionable recommendations. While also collaborating effectively with teams and stayed updated on GIS trends to continuously improve workflows.",
+      "highlights": [
+        "Utilize GIS software and tools for accurate and reliable spatial data management",
+        "Develop spatial visualizations and reports to communicate geographical insights for projects",
+        "Conduct sophisticated spatial analysis to identify patterns and trends in geographic data",
+        "Create compelling data visualizations to present insights from census and GIS data effectively, including analyzing HART data for Bill 40 grant eligibility",
+        "Collaborate and communicate complex geospatial data across teams, seeking input from team members to ensure alignment with project objectives",
+        "Provide guidance and support on GIS matters, promoting collaboration. Collaborated on creating StoryMaps to visually display project maps",
+        "Perform rigorous data validation and quality assurance processes to ensure spatial analysis results' integrity and reliability",
+        "Translate complex spatial analysis findings into actionable recommendations, facilitating data-driven decision-making processes",
+        "Stay updated of GIS technology trends and spatial analysis methodologies to drive innovation",
+        "Enhance departmental transparency and user awareness through informative interactions",
+        "Identify and implement optimizations in GIS workflows to improve efficiency",
+        "Engage in professional development activities, including MOOC programs, to enhance GIS skills and knowledge",
+        "Employ advanced analytical techniques to interpret geographic data, extracting actionable insights"
+      ]
+    },
+    {
+      "company": "UH Manoa Career Center",
+      "position": "Employment Services Assistant",
+      "website": "https://manoa.hawaii.edu/careercenter/",
+      "startDate": "2022-10-20",
+      "endDate": "Present",
+      "summary": "My role as an Employment Services Assistant at the University of Hawaii at Manoa encompasses a range of responsibilities, from facilitating HR functions to delivering top-notch customer service and supporting students in accessing essential resources. I am passionate about contributing to the university community's growth and success.",
+      "highlights": [
+        "Offer clear and comprehensive instructions to users of the student employment system, ensuring seamless navigation",
+        "Facilitate user understanding and proficiency through step-by-step guidance and support",
+        "Execute advanced clerical tasks with precision, maintaining a high standard of office organization and efficiency",
+        "Provide exceptional customer service, creating a welcoming and helpful atmosphere for office visitors",
+        "Manage onboarding processes for student employees, processing 20+ I-9 forms weekly",
+        "Responsively handle a high volume of 50+ daily emails, addressing inquiries and providing solutions",
+        "Provide valuable assistance to 50+ students weekly, addressing their unique needs",
+        "Streamline student support with efficient scheduling of 10+ career counseling appointments daily",
+        "Serve as a valuable resource by sharing pertinent information about various departmental programs and services",
+        "Enhance departmental transparency and user awareness through informative interactions",
+        "Manage scheduling operations, ensuring efficient coordination of workshops and career counseling sessions",
+        "Streamline appointment processes to optimize resource allocation and customer satisfaction"
+      ]
+    },
+    {
+      "company": "Foot Locker",
+      "position": "PT Sales Associate",
+      "website": "https://www.footlocker.com/",
+      "startDate": "2019-07-28",
+      "endDate": "Present",
+      "summary": "Committed to fostering an exceptional shopping atmosphere and driving measurable results, I take pride in my role as a Retail Associate and look forward to continuing to exceed expectations in this dynamic retail environment.",
+      "highlights": [
+        "Exemplify exceptional customer service by warmly welcoming and assisting patrons, offering insightful product recommendations, and addressing client inquiries, ensuring a memorable shopping experience",
+        "Execute precise financial transactions with a sharp eye for detail, swiftly resolving customer inquiries to ensure their financial needs are met with ease and satisfaction",
+        "Skillfully manage and meticulously track product inventory, guaranteeing accurate stock levels, and enabling efficient restocking processes",
+        "Play a pivotal role in maintaining the store's pristine cleanliness, contributing to an inviting shopping environment",
+        "Collaborate in seasonal layout transformations and product reorganization, enhancing store aesthetics and optimizing customer navigation",
+        "Spearheaded a substantial 80% improvement in email receipt rates, amplifying the store's digital engagement and communication with customers",
+        "Held the distinguished title of the #1 part-time seller within our district, spanning Hawaii, Guam, and other Pacific islands, consistently delivering exceptional sales performance that set the benchmark for excellence",
+        "Instrumental in driving a remarkable 20% increase in in-store sales, consistently achieving daily sales figures of up to $5,000"
+      ]
+    }
+  ],
+   "volunteer": [
+    {
+      "organization": "Business Executive Society of Tomorrow (B.E.S.T)",
+      "website": "https://www.bestuhm.org/home",
+      "position": "General Member",
+      "startDate": "2023-09-17",
+      "endDate": "Present",
+      "summary": "Founded in 1998, the Business Executive Society of Tomorrow (BEST) is a general business club at the University of Hawaii at Manoa’s Shidler College of Business. With a member cap of 60, BEST has a proud history of maintaining and perpetuating excellence in its members. Through a combination of tours, workshops, networking events, alumni events, community services, and socials, the club strives to mold its members into well-rounded individuals",
+      "highlights": [
+        "Actively participated in the Fall 2023 cohort by attending general meetings, engaging in workshops, and joining informative tours, enhancing my understanding of future business trends and leadership skills"
+      ]
+    },
+      {
+      "organization": "Information Technology Management Association (ITMA)",
+      "website": "https://www.instagram.com/itmahawaii/",
+      "position": "General Member",
+      "startDate": "2023-09-17",
+      "endDate": "Present",
+      "summary": "Our mission is to strengthen the social and professional network between members of the Information Technology Management Association, alumni, and professionals by focusing on the development of quality relationships. ITMA is motivated and dedicated to provide its members with social and professional relationships, provide access to technical resources, and be an example of a growing technical environment to foster career development",
+      "highlights": [
+        "Became a member in Fall 2023 and actively participated by attending general meetings and engaging with industry professionals, gaining insights and connections within the field of IT and technology"
+      ]
+    },
+      {
+      "organization": "Center for Tomorrow’s Leaders",
+      "website": "https://www.ctlhawaii.org/",
+      "position": "Student Ambassador",
+      "startDate": "2019",
+      "endDate": "2020",
+      "summary": "The Center for Tomorrow’s Leaders is a local non-profit organization with a mission to engage, equip, and empower young leaders for Hawaiʻi. Through signature high school and post-secondary programs, CTL is creating an atmosphere for student leaders from every community to be discovered and trained. Our 10-year leadership pipeline for Hawai'i from sophomore year of high school to age 25 provides a leader feeder for Hawai'i’s businesses, government, and all sectors of young people who are from, for, and in Hawai'i",
+      "highlights": [
+        "Led and managed a student team to support the After School All Stars program at Ke'elikolani Middle School, focusing on providing valuable extracurricular activities and mentorship to local students"
+      ]
+    },
+    {
+      "organization": "A'ali'i Mentoring",
+      "website": "https://www.aaliimentoring.org/",
+      "position": "Mentee",
+      "startDate": "2023-08-26",
+      "endDate": "Present",
+      "summary": "A'ali'i Mentoring is a 501(c)(3) nonprofit organization in Hawaii that helps young adults from underserved communities navigate and persevere in higher education. Many young people from communities underrepresented in higher education face the typical challenges related to the transition to college and also daunting difficulties including academic, financial, familial, and personal hardships. They may not be aware of or have access to financial, educational, and career resources and opportunities. As a result, many young people do not achieve their higher education",
+      "highlights": [
+        "Participated in a 12-month professional development program, receiving valuable 1-1 and group mentorship, which enhanced personal and career growth through guidance and support"
+      ]
+    }
+  ],
+  "awards": [
+      {
+      "title": "Dean's List",
+      "date": "2021-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "The Dean’s List recognizes students with a superior academic record, i.e., a minimum current grade point average of 3.5 for 12 or more credits of academic coursework."
+    },
+      {
+      "title": "B+ Scholarship",
+      "date": "2021-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    },
+    {
+      "title": "TRIO Manoa Scholarship",
+      "date": "2023",
+      "awarder": "TRIO at UH Manoa",
+      "summary": "Scholarships awarded to students in the TRIO program at UH Manoa in recognition of their academic excellence."
+    },
+    {
+      "title": "Sophomore Merit Scholarship",
+      "date": "2023",
+      "awarder": "University of Hawaii at Manoa Outreach College",
+      "summary": "Scholarships awarded to up to 30 sophomore UH Manoa students in recognition of their academic excellence."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}

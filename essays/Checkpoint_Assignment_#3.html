@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Checkpoint Assignment #3 | Wendy Huang | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/wendyh2.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Wendy Huang | Professional Portfolio">
+    <meta property="og:url" content="https://wendyh2.github.io/essays/Checkpoint_Assignment_%233.html">
+    <meta property="og:title" content="Checkpoint Assignment #3 | Wendy Huang | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/wendyh2.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/skyblue.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Checkpoint Assignment #3 | Wendy Huang | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Wendy Huang</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Checkpoint Assignment #3</h1>
+  <span class="date">11 Dec 2023</span>
+  <hr>
+  <h2 id="show-what-each-page-will-look-like-the-pages-dont-need-to-be-fully-functional-but-the-design-should-be-clear">Show what each page will look like. The pages don’t need to be fully functional, but the design should be clear.</h2>
+
+<p>Click <a href="https://youtu.be/9NNLx-wkQy0">HERE</a> for an overview of our prototype layout and functionality for our Assignment 3 e-commerce website.</p>
+
+<p><img src="../img/A3 map.png" alt="A3 Map" /></p>
+
+<h2 id="1-describe-your-design-for-your-sites-shopping-cart">1. Describe your design for your site’s shopping cart.</h2>
+
+<p>Our design includes a dedicated shopping cart page. Users can easily manage the quantities of their selected products here. This page is similar to the invoice page, providing a preview of items and quantities before final confirmation. The cart uses session-based data storage, keeping track of the user’s choices. Users can modify product quantities in the cart, either increasing or removing them. Once ready, they can proceed to purchase by clicking the “Complete Purchase” button. This takes them to the Invoice page. However, users need to be logged in or register an account to access the invoice page. If not logged in, they’re redirected to the login page.</p>
+
+<h2 id="2-explain-how-you-will-use-sessions-to-manage-your-shopping-cart">2. Explain how you will use sessions to manage your shopping cart.</h2>
+
+<p>We’re using session management for our shopping cart data, focusing on the quantities of products users input. Each product type is a key, with quantities stored as an array. For instance, if a user picks products from different pages, the cart might look like this: <code class="language-plaintext highlighter-rouge">{Gellie: [1, 2, 3], Nerissa: [4, 5, 6]}</code>. This method keeps product selections organized and accessible.</p>
+
+<h2 id="3-discuss-the-security-measures-for-your-application">3. Discuss the security measures for your application.</h2>
+
+<p>To prevent unauthorized access, we’re implementing an authentication system using cookies. This is crucial during shopping. The server will verify a user’s logged-in status via a valid cookie before directing them to the invoice page. If there’s no cookie, indicating the user isn’t logged in, they’re sent to the login page to sign in or register. Aware of potential cookie vulnerabilities, we’re adding security layers like secure and HttpOnly flags, and considering encryption and regular validation checks for enhanced security.</p>
+
+<h2 id="4-addressing-security-for-unauthenticated-access">4. Addressing security for unauthenticated access.</h2>
+
+<p>Our main security focus is preventing unregistered users from accessing personal data. We’re using cookies for session management, requiring users to log in or register before making purchases. Recognizing the limitations of client-side cookies, we’re also implementing a session timeout feature. This automatically logs out inactive users, further securing user data.</p>
+
+<h2 id="5-how-do-you-personalize-the-ui-upon-successful-login">5. How do you personalize the UI upon successful login?</h2>
+
+<p>Assignment 2’s complexity, especially in login and registration processes, included handling data in the user JSON file. The code managed existing data and updated it with new registration info. Despite being extensive, it improved my understanding of data handling.</p>
+
+<h2 id="6-how-is-work-divided-among-partners">6. How is work divided among partners?</h2>
+
+<p>Teamwork is key in our approach. We’re tackling tasks together, one at a time, to stay in sync. This helps us understand each other’s work and integrate our code efficiently. We focus collectively on a single task for better outcomes. Keeping each other informed about individual discoveries ensures seamless collaboration and progress.</p>
+
+<h2 id="7-how-is-assignment-3-different-from-assignment-2">7. How is Assignment 3 different from Assignment 2?</h2>
+
+<p>Assignment 3 brings its challenges, perhaps more complex than Assignment 2. It emphasizes user experience in coding, requiring easy navigation and secure data handling. This involves significant UI changes and validations, and tracking the user’s journey across the website. A detailed outline is crucial for planning the user navigation, ensuring a smooth and intuitive experience.</p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
